@@ -1,2 +1,2 @@
 # FPmL
-FPmL is a project for creating a predictive tool for Fantasy Premier League using machine learning
+FPmL is a university project for creating a predictive tool on Fantasy Premier League using machine learning
